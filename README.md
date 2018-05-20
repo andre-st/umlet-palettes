@@ -5,21 +5,19 @@
 
 ![Palette](ISTAR-20120127.png)
 
-Copy ISTAR.uxf to `UMLET/palettes/` and restart [UMLet](https://umlet.com)
-
+Copy ISTAR.uxf to `/path/to/UMLET/palettes/` and restart [UMLet](https://umlet.com)
 
 
 ## Further reading
 
 - [i* notation quick guide](http://istar.rwth-aachen.de/tiki-index.php?page=iStarQuickGuide)
 - [i* publications](http://istar.rwth-aachen.de/tiki-index.php?page=Publications)
-- [i* book "Social Modeling for Requirements Engineering (Cooperative Information Systems"](https://www.amazon.de/dp/0262240556)
+- [i* book "Social Modeling for Requirements Engineering"](https://www.amazon.de/dp/0262240556)
 
 
 ## Feedback
 
 Use [GitHub](https://github.com/andre-st/umlet-palettes/issues) or see [AUTHORS.md](AUTHORS.md) file
-
 
 
 ## Licence
