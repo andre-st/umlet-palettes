@@ -1,4 +1,4 @@
-# ISTAR.uxf
+# ISTAR (i\*) palette for UMLet 
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2012.svg)
 
