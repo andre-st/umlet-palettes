@@ -19,7 +19,6 @@ istar
 umlet
 uml
 gore
-goal-oriented-action-planning
 goal-modeling
 goals
 modeling
