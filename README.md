@@ -1,9 +1,9 @@
-# ISTAR (i\*) Goal Modeling Palette for UMLet 
+# ISTAR (i\*) Goal Modeling in UMLet 
 
 ![Maintenance](https://img.shields.io/maintenance/yes/2012.svg)
 
 
-## Elements:
+## The palette:
 
 ![Palette](ISTAR-20120127.png)
 
