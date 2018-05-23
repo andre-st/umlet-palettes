@@ -7,7 +7,7 @@
 
 ![Palette](ISTAR-20120127.png)
 
-Copy ISTAR.uxf to `/path/to/UMLET/palettes/` and restart [UMLet](https://umlet.com)
+Copy ISTAR.uxf to `/path/to/UMLET/palettes/` and restart [UMLet](http://umlet.com)
 
 
 ## Further reading
