@@ -17,7 +17,7 @@ Copy ISTAR.uxf to `/path/to/UMLET/palettes/` and restart [UMLet](http://umlet.co
 - [i* book "Social Modeling for Requirements Engineering"](https://www.amazon.de/dp/0262240556)
 - [i* example](https://pdfs.semanticscholar.org/949f/9eedefd5df45f45338110a35c3f2175e7c88.pdf): "Understanding business strategies of networked value constellations using goal and value modeling"
 - [i* vs iStar 2.0 at a glance](https://sites.google.com/site/istarlanguage/diff)
-- Tropos, Techne, Goal-oriented Requirement Language (GRL), Goal Structuring Notation (GSN), KAOS, ...
+- Tropos, Techne, Goal-oriented Requirement Language (GRL), Goal Structuring Notation (GSN), KAOS, Goal modeling in EEML, ...
 
 ## Feedback
 
